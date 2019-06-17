@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SystemDownloadToolDemo</string>
+
+    <string name="system_download_component_disable">下载服务不可用,请您启用</string>
+    <string name="tip_dialog">"下载任务已生成，请进入”全部应用--下载“中查看下载进度。"</string>
+    <string name="tip_dialog_downloaded">"下载任务已完成，请进入”全部应用--下载“中查看。"</string>
+    <string name="submit">"确定"</string>
+</resources>
